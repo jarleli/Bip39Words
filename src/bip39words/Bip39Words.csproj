@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Description>A project to easily and simple create lists of words from the bip 39 word list. 
+See https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki for bip 39 reference</Description>
+    <Authors>jarlelin</Authors>
+    <Company />
+    <PackageLicenseUrl>https://spdx.org/licenses/MIT.html</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/jarleli/Bip39Words</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/jarleli/Bip39Words</RepositoryUrl>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+  </PropertyGroup>
+
+</Project>
